@@ -84,3 +84,25 @@ footer {
     height: 500px;
     border-radius: 25px;
 }
+error {
+    text-align: center;
+}
+.error_name {
+    padding: 0;
+    margin: 0;
+    font-size: 64px;
+    margin-bottom: 50px;
+    font-weight: 700;
+}
+.error_desc {
+    padding: 0;
+    margin: 0;
+    font-size: 30px;
+    font-weight: 500;
+}
+.error {
+    background: #ff0909;
+    margin: 20px;
+    padding: 30px;
+    border-radius: 30px;
+}
